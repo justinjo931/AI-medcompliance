@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Home.css"; // Ensure this CSS file is styled well
-import amritaLogo from "../assets/amrita png.png"; // Ensure this path matches the logo
+import drmgrLogo from "../assets/drmgr.png"; // Ensure this path matches the logo
 
 const Home = () => {
   return (
     <div className="home-container">
       {/* College Logo */}
-      <img src={amritaLogo} alt="Amrita Vishwa Vidyapeetham" className="college-logo" />
+      <img src={drmgrLogo} alt="Dr MGR Educational and Research Institute" className="college-logo" />
 
       {/* Project Title */}
       <h1 className="project-title">🚀 MedAI Compliance</h1>

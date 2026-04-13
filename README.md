@@ -52,7 +52,7 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 - 🧑‍🏫 **Mentor**: Dr. K. Venkatesan (Assistant Professor)  
 - 🧑‍💼 **HOD**: Dr. Udhayakumar  
 - **Department**: Cyber Security  
-- **Institution**: Amrita Vishwa Vidyapeetham, Chennai
+- **Institution**: Dr MGR Educational and Research Institute, Chennai
 
 ---
 
@@ -73,7 +73,7 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 
 ## 📃 License
 
-All right reserved to Dinakar S, Dr. K. Venkatesan and Amrita Vishwa Vidyapeetham, School of Computing , Chennai.
+All right reserved to Dinakar S, Dr. K. Venkatesan and Dr MGR Educational and Research Institute, School of Computing , Chennai.
 
 ---
 

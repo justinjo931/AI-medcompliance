@@ -1,6 +1,25 @@
 # Local ChatPDF with DeepSeek R1
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **ChatPDF** is a Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and interact with them through a chatbot interface. The system uses advanced embedding models and a local vector store for efficient and accurate question-answering.
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Configuration](#configuration)
+- [Requirements](#requirements)
+- [Troubleshooting](#troubleshooting)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -10,7 +29,9 @@
 - **Memory Management**: Easily clear vector store and retrievers to reset the system.
 - **Streamlit Interface**: A user-friendly web application for seamless interaction.
 
----
+## Demo
+
+![ChatPDF Demo](demo.gif) <!-- Add a demo GIF or screenshot here -->
 
 ## Installation
 
@@ -19,7 +40,7 @@ Follow the steps below to set up and run the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DINAKAR-S/AIMed-Compliance/tree/main/chatpdf-rag-deepseek-r1.git
+git clone https://github.com/justinjo931/AI-Medical-Compliance.git  
 cd chatpdf-rag-deepseek-r1
 ```
 
@@ -155,6 +176,22 @@ You can modify the following parameters in `rag.py` to suit your needs:
 - **Memory Integration**: Add persistent memory to maintain conversational context across sessions.
 - **Advanced Analytics**: Include visual insights from retrieved content.
 - **Expanded Model Support**: Support additional embedding and LLM providers.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
