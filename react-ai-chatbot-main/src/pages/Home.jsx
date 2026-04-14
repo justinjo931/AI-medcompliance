@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Home.css"; // Ensure this CSS file is styled well
-import drmgrLogo from "../assets/drmgr.png"; // Ensure this path matches the logo
+import drmgrLogo from "../assets/DR mgr.jpg"; // Ensure this path matches the logo
 
 const Home = () => {
   return (
@@ -16,15 +16,15 @@ const Home = () => {
       {/* Team Information */}
       <div className="team-section">
         <h2>👨‍💻 Team Members</h2>
-        <p>🎓 <b>Dinakar S</b> - CH.EN.U4CYS21013</p>
-        <p>🎓 <b>Jawakar Sri</b> - CH.EN.U4CYS21025</p>
+        <p>🎓 <b>Justin Joseph S</b> - 231211101347</p>
+        <p>🎓 <b>Galwin Joy</b> - 231211101288</p>
       </div>
 
       {/* Faculty Information */}
       <div className="faculty-section">
         <h2>🎓 Submitted To</h2>
-        <p>📖 <b>Mentor:</b> Dr. K. Venkatesan (Assistant Professor)</p>
-        <p>🏛️ <b>HOD:</b> Dr. Udhayakumar</p>
+        <p>📖 <b>Mentor:</b> Mr c. Balaji (Assistant Professor)</p>
+        <p>🏛️ <b>HOD:</b> Dr. Ananthan</p>
       </div>
 
       {/* Navigation Buttons */}
