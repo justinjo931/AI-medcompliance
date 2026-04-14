@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
-[![License: MGR](https://img.shields.io/badge/License-MGR-yellow.svg)](https://opensource.org/licenses/MGR)
+[![License: MGR](https://img.shields.io/badge/License-MGR-yellow.svg)](https://drmgrdu.ac.in/)
 
 **ChatPDF** is a Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and interact with them through a chatbot interface. The system uses advanced embedding models and a local vector store for efficient and accurate question-answering.
 
